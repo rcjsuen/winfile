@@ -13,7 +13,7 @@ I will consider bugs fixes and suggestions for minor changes to the master branc
 to create a pull request or post issues as you see fit.
 
 I will not be changing the original_plus sources nor creating other branches for other purposes.
-You are welcome do that on your own.
+You are welcome to do that on your own.
 
 ## History
 
